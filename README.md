@@ -1,4 +1,4 @@
-# Stancode_Project
+# stanCode_Project
 
 Hello everyone,    
 
